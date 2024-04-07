@@ -14,5 +14,7 @@ int main() {
     push(&stack, 40);
     printf("Top element of stack: %d\n", peek(&stack));
     
+    // The example usage for the linked list queue is still in progress
+
     return 0;
 }
